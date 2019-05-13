@@ -7,6 +7,10 @@ https://medium.com/sigmoid/a-brief-introduction-to-gans-and-how-to-code-them-262
 Result after 10 epochs:
 
 ![](result_sheep.jpg)
+
+Well maybe 10 epochs isn't enougth... 
+MNIST:
+
 ![](result_mnist.jpg)
 
 
